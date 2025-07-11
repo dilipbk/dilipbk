@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Dilip B.K. — Mostly Harmless, Occasionally Brilliant</h1>
+<h1 align="center">🚀 Dilip Bishowkarma — Mostly Harmless, Occasionally Brilliant</h1>
 <p align="center">
   Senior Software Engineer • Indie Hacker • System Whisperer<br/>
   <i>I build stuff that scales. Then I make it look pretty.</i>
